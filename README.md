@@ -2,7 +2,7 @@
 
 **Sitio personal bilingüe (ES/EN) que presenta mi perfil como Systems & Infrastructure Engineer: experiencia, resultados medibles, stack técnico y proyectos, en una sola página rápida y sin dependencias.**
 
-🔗 **Sitio en vivo:** _próximamente_ · 💻 **Código fuente:** [LuisGGDev/LuisGallegos-cv](https://github.com/LuisGGDev/LuisGallegos-cv) · 👤 **Autor:** [Luis Ángel Gallegos](https://www.linkedin.com/in/luis-%C3%A1ngel-gallegos-g%C3%B3mez-1b1822220/)
+🔗 **Sitio en vivo:** [luisgallegos.netlify.app](https://luisgallegos.netlify.app/) · 💻 **Código fuente:** [LuisGGDev/LuisGallegos-cv](https://github.com/LuisGGDev/LuisGallegos-cv) · 👤 **Autor:** [Luis Ángel Gallegos](https://www.linkedin.com/in/luis-%C3%A1ngel-gallegos-g%C3%B3mez-1b1822220/)
 
 > _English summary: a bilingual (Spanish/English) one-page portfolio for a Systems & Infrastructure Engineer. Built with plain HTML, CSS and JavaScript — no frameworks, no build step, about 54 KB of code. It features a language switch that auto-detects the browser language and remembers the visitor's choice, per-language CV downloads, a responsive layout, scroll animations that respect reduced-motion settings, SEO/Open Graph tags and a Netlify-ready contact form with spam protection._
 
@@ -87,6 +87,7 @@ flowchart LR
 | Tipografía | Space Grotesk, Inter y JetBrains Mono (Google Fonts) |
 | Íconos | SVG en línea |
 | Formulario | Netlify Forms con honeypot |
+| Hosting | Netlify |
 | Control de versiones | Git y GitHub |
 
 **Tamaño total del código:** unos 54 KB (HTML, CSS y JS), sin frameworks ni dependencias.
